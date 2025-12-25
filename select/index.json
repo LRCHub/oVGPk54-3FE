@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "電車の窓から",
+  "base_artist": "back number",
+  "createdAt": "2025-12-25T03:08:34.776504Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "電車の窓から",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/01_電車の窓から_back_number.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "電車の窓から",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/02_電車の窓から_back_number.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "電車の窓から",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/03_電車の窓から_back_number.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "電車の窓から - Denshano Madokara",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/04_電車の窓から_-_Denshano_Madokara_back_number.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "電車の窓から",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_電車の窓から_back_number.txt"
+    }
+  ]
+}
